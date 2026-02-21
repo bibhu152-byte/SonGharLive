@@ -27,6 +27,24 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st
 #EXTHTTP:{"cookie":"__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47
 
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 1
+https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvc29ueS1zYWItaGQ%3D&name=Sony+SAB&format=.m3u8
+
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 2
+http://103.175.73.12:8080/live/6/6_0.m3u8
+
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 3" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 3
+http://103.229.254.25:7001/play/a09s/index.m3u8
+
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 4" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 4
+http://103.182.170.32:8888/play/a03r
+
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 5" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 5
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 6" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 6
+https://play.denver1769.fun/Play/sab.m3u8
+
 # ========== Movies ==========
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -124,6 +142,36 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47
+
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-4" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1 HD
+https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2 HD
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 3 HD
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5 HD
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
 
 # ========== Kids ==========
 #EXTINF:-1 tvg-id="872" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony YAY!

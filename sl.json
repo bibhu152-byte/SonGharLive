@@ -1,6 +1,6 @@
 {
-  "StreamFlex_A_updated_at": "2026-02-21T09:34:22.977448Z",
-  "StreamFlex_SL_total_channels": 24,
+  "StreamFlex_A_updated_at": "2026-02-21T10:05:16.684329Z",
+  "StreamFlex_SL_total_channels": 40,
   "total_categories": 8,
   "categories": {
     "Entertainment": [
@@ -27,6 +27,54 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",
         "group": "Entertainment",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"
+      },
+      {
+        "name": "Sony Sab Server 1",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 1",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvc29ueS1zYWItaGQ%3D&name=Sony+SAB&format=.m3u8"
+      },
+      {
+        "name": "Sony Sab Server 2",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 2",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "http://103.175.73.12:8080/live/6/6_0.m3u8"
+      },
+      {
+        "name": "Sony Sab Server 3",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 3",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "http://103.229.254.25:7001/play/a09s/index.m3u8"
+      },
+      {
+        "name": "Sony Sab Server 4",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 4",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "http://103.182.170.32:8888/play/a03r"
+      },
+      {
+        "name": "Sony Sab Server 5",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 5",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8"
+      },
+      {
+        "name": "Sony Sab Server 6",
+        "tvg_id": "sony.sab",
+        "tvg_name": "Sony Sab Server 6",
+        "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+        "group": "Entertainment",
+        "url": "https://play.denver1769.fun/Play/sab.m3u8"
       }
     ],
     "Movies": [
@@ -153,6 +201,86 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",
         "group": "Sports",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"
+      },
+      {
+        "name": "Sony Sports Ten 1",
+        "tvg_id": "sony-ten-1",
+        "tvg_name": "",
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 2",
+        "tvg_id": "sony-ten-2",
+        "tvg_name": "",
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 3",
+        "tvg_id": "sony-ten-3",
+        "tvg_name": "",
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 4",
+        "tvg_id": "sony-ten-4",
+        "tvg_name": "",
+        "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 5",
+        "tvg_id": "sony-ten-5",
+        "tvg_name": "",
+        "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 1 HD",
+        "tvg_id": "sony-ten-1-hd",
+        "tvg_name": "",
+        "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 2 HD",
+        "tvg_id": "sony-ten-2-hd",
+        "tvg_name": "",
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 3 HD",
+        "tvg_id": "sony-ten-3-hd",
+        "tvg_name": "",
+        "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 4 HD",
+        "tvg_id": "sony-ten-4-hd",
+        "tvg_name": "",
+        "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+      },
+      {
+        "name": "Sony Sports Ten 5 HD",
+        "tvg_id": "sony-ten-5-hd",
+        "tvg_name": "",
+        "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+        "group": "Sports",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
       }
     ],
     "Kids": [
@@ -236,6 +364,54 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png",
       "group": "Entertainment",
       "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"
+    },
+    {
+      "name": "Sony Sab Server 1",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 1",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvc29ueS1zYWItaGQ%3D&name=Sony+SAB&format=.m3u8"
+    },
+    {
+      "name": "Sony Sab Server 2",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 2",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "http://103.175.73.12:8080/live/6/6_0.m3u8"
+    },
+    {
+      "name": "Sony Sab Server 3",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 3",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "http://103.229.254.25:7001/play/a09s/index.m3u8"
+    },
+    {
+      "name": "Sony Sab Server 4",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 4",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "http://103.182.170.32:8888/play/a03r"
+    },
+    {
+      "name": "Sony Sab Server 5",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 5",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "https://edge2.roarzone.info:8445/roarzone/edge3/sony-sab-hd/index.m3u8"
+    },
+    {
+      "name": "Sony Sab Server 6",
+      "tvg_id": "sony.sab",
+      "tvg_name": "Sony Sab Server 6",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",
+      "group": "Entertainment",
+      "url": "https://play.denver1769.fun/Play/sab.m3u8"
     },
     {
       "name": "Sony Max HD",
@@ -356,6 +532,86 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",
       "group": "Sports",
       "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1771616162~exp=1771702562~acl=/*~hmac=d66f153d09dd491cf7054d72aaf1be195de2376e6d104fde04f6e8e935045a47"
+    },
+    {
+      "name": "Sony Sports Ten 1",
+      "tvg_id": "sony-ten-1",
+      "tvg_name": "",
+      "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 2",
+      "tvg_id": "sony-ten-2",
+      "tvg_name": "",
+      "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 3",
+      "tvg_id": "sony-ten-3",
+      "tvg_name": "",
+      "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 4",
+      "tvg_id": "sony-ten-4",
+      "tvg_name": "",
+      "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 5",
+      "tvg_id": "sony-ten-5",
+      "tvg_name": "",
+      "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 1 HD",
+      "tvg_id": "sony-ten-1-hd",
+      "tvg_name": "",
+      "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 2 HD",
+      "tvg_id": "sony-ten-2-hd",
+      "tvg_name": "",
+      "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 3 HD",
+      "tvg_id": "sony-ten-3-hd",
+      "tvg_name": "",
+      "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 4 HD",
+      "tvg_id": "sony-ten-4-hd",
+      "tvg_name": "",
+      "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
+    },
+    {
+      "name": "Sony Sports Ten 5 HD",
+      "tvg_id": "sony-ten-5-hd",
+      "tvg_name": "",
+      "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+      "group": "Sports",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7"
     },
     {
       "name": "Sony YAY!",
