@@ -8,27 +8,27 @@
 # ========== Entertainment ==========
 #EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/channel/dc2fc16b7d6f5d03d3af923c072ee5a8.png" group-title="Entertainment",Sony Marathi SD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1393" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Entertainment",Sony Wah
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="474" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="697" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyAATH.png" group-title="Entertainment",Sony aath
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyAATH_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyAATH_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="sony.sab" tvg-name="Sony Sab Server 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony Sab Server 1
 https://roarzone.geoclaster.xyz/main/stream.php?id=ZWRnZTMvc29ueS1zYWItaGQ%3D&name=Sony+SAB&format=.m3u8
@@ -51,88 +51,88 @@ https://play.denver1769.fun/Play/sab.m3u8
 # ========== Movies ==========
 #EXTINF:-1 tvg-id="3418" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png" group-title="Movies",Sony MAX1
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies",Sony Max HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyMAX_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX2.png" group-title="Movies",Sony MAX2
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyMAX2_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX2_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="Movies",Sony Pix HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd?
 
 # ========== Sports ==========
 #EXTINF:-1 tvg-id="155" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Ten 5 HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Six_HD_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports",Sony Ten 1 HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports",Sony Ten 4 HD Tamil
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_4_HD_Tamil_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_HD_Tamil_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="1773" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png" group-title="Sports",Sony Ten 4 HD Telugu
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_4_HD_Telugu_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_HD_Telugu_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="891" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports",Sony Ten 2 HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten2_HD_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten2_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",Sony Ten 1
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports",Sony Ten 3 Hindi
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",Sony Ten 5
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="892" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports",Sony Ten 3 HD Hindi
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="1774" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports",Sony Ten 4 Tamil
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="1775" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Telugu.png" group-title="Sports",Sony Ten 4 Telugu
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3372" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="Sports",Sony LIV Sports 1
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3373" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="Sports",Sony LIV Sports 2
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3374" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="Sports",Sony LIV Sports 3
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3397" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-title="Sports",Sony LIV Sports 4 Tamil
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3398" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-title="Sports",Sony LIV Sports 4 Telugu
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3399" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png" group-title="Sports",Sony LIV Sports 5
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1
 https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1770618605~acl=/*~id=70235781838996941257053137865334~hmac=47c71ca5830f28e1ea0d7dcadaa44658ae931e8090e316bc4057917f80b0d2c7
@@ -167,44 +167,44 @@ https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1770
 # ========== Kids ==========
 #EXTINF:-1 tvg-id="872" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYHin.png" group-title="Kids",Sony Yay Hindi
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYHin_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="873" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTam.png" group-title="Kids",Sony Yay Tamil
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="874" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYTel.png" group-title="Kids",Sony Yay Telugu
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYTel_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYTel_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3420" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYKan.png" group-title="Kids",SONY YAY Kannada
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYKan_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYKan_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3423" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYMal.png" group-title="Kids",SONY YAY Malayalam
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYMal_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYMal_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="3424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyYAYBen.png" group-title="Kids",SONY YAY Bengali
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyYAYBen_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYBen_MOB/WDVLive/index.mpd?
 
 # ========== Infotainment ==========
 #EXTINF:-1 tvg-id="821" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png" group-title="Infotainment",Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-id="852" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthEng.png" group-title="Infotainment",Sony BBC Earth HD English
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthEng_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="853" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthTam.png" group-title="Infotainment",Sony BBC Earth HD Tamil
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthTam_MOB/WDVLive/index.mpd?
 
 #EXTINF:-1 tvg-id="854" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyBBCEarthTel.png" group-title="Infotainment",Sony BBC Earth HD Telugu
 #EXTVLCOPT:http-user-agent=SonyLiv/7.1.3 (Linux;Android 13) StreamFlex/824.1 ExoPlayerLib/824.0
-https://jiotvioslive.cdn.jio.com/bpk-tv/SonyBBCEarthTel_MOB/WDVLive/index.mpd?__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65&xxx=%7Ccookie=__hdnea__=st=1775508212~exp=1775529812~acl=/*~hmac=bb1c62b009d18875330a9037024d7abd738337f89d0c3749fd2755e4aea69a65
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthTel_MOB/WDVLive/index.mpd?
 
 # =====================================
 # Generated by StreamFlex
